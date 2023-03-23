@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdrianStanete
-- 👀 I’m interested in Site Reliability  
-- 🌱 I’m currently learning Docker and Kubernetes
+- 👀 I’m interested in Site Reliability 
+- 🌱 I’m currently learning Docker, K8s, Kind, Terraform + AWS, Prometheus + Grafana, GitHub Actions and similar
 - 💞️ I’m looking to collaborate on a Technology team that aims to build a great product.
 - 📫 How to reach me: adrianstanete@gmail.com || +34 684141616
 
